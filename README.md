@@ -12,7 +12,7 @@ code - A folder with the code used to create the visualizations:
 
 	Data Cleaning.ipynb - This notebook contains data processing steps such as cleaning, loading, and preparing the data to be visualized.
 	
-	Visual1.ipynb - This note contains our initial charts.
+	Visual1.ipynb - This notebook contains our initial charts.
 
 	Visual2.ipynb - This notebook contains our final charts.
 
