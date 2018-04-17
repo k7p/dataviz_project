@@ -4,7 +4,7 @@ Authors: Alvira Swalin, Kishan Panchal
 
 This repository contains data visualizations and the code used to create them for our project.
 
-URL - 
+URL - https://k7p.github.io/dataviz_project/
 
 The repository is structured as follows:
 
@@ -20,4 +20,7 @@ code - A folder with the code used to create the visualizations:
 
 data - A zip file of the data that we used.
 
+docs - A folder containing the files used to create the website.
+
 presentation.pdf - Our presentation of the visualization.
+
