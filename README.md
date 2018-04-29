@@ -20,7 +20,5 @@ code - A folder with the code used to create the visualizations:
 
 data - A zip file of the data that we used.
 
-docs - A folder containing the files used to create the website.
-
 presentation.pdf - Our presentation of the visualization.
 
