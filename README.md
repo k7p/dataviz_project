@@ -4,7 +4,7 @@ Authors: Alvira Swalin, Kishan Panchal
 
 This repository contains data visualizations and the code used to create them for our project.
 
-URL - https://k7p.github.io/dataviz_project/
+URL - https://sites.google.com/dons.usfca.edu/movieviz/home
 
 The repository is structured as follows:
 
