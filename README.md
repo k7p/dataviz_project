@@ -6,6 +6,8 @@ This repository contains data visualizations and the code used to create them fo
 
 URL - https://sites.google.com/dons.usfca.edu/movieviz/home
 
+Article - https://towardsdatascience.com/exploring-movie-data-with-interactive-visualizations-c22e8ce5f663
+
 The repository is structured as follows:
 
 code - A folder with the code used to create the visualizations:
